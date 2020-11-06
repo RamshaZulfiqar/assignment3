@@ -9,14 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code>
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+       
           ramsha zulfiqar 2017383
-        </a>
+  
       </header>
     </div>
   );
